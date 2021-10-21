@@ -133,7 +133,7 @@ padding: 1 15px;
   .intro{
       width: 100%;
       min-height: 100vh;
-      background: url(../img/japan4.jpg) no-repeat center;
+      background: url(../japan4.jpg) no-repeat center;
       display: block;
       background-size: cover;
       padding-top: 263px;
@@ -165,7 +165,7 @@ margin-bottom: 59px;
 
   .search-form__field{
       width: 297px;
-background:transparent url(../img/svg/Oval.svg) no-repeat left 7px;
+background:transparent url(../Oval.svg) no-repeat left 7px;
 background-size: 20px;
 border: 0;
 border-bottom: 2px solid #BFC0C5;
@@ -265,12 +265,12 @@ font-size: 16px;
 line-height: 24px;
 color:  #006DFE;
 text-decoration: none;
-background: url(../img/svg/Shape.svg) no-repeat 95% center;
+background: url(../Shape.svg) no-repeat 95% center;
 transition: 0.2s all;
 }
 
 .benefits__card-more:hover,.benefits__card-more:focus{
-    background: url(../img/svg/Shape.svg) no-repeat right center;
+    background: url(../Shape.svg) no-repeat right center;
 }
 /*places start*/
 
@@ -296,7 +296,7 @@ transition: 0.2s all;
     color: #006DFE;
     text-decoration: none;
     padding-right: 59px;
-    background: url(../img/svg/Shape.svg) no-repeat 100% center;
+    background: url(../Shape.svg) no-repeat 100% center;
 }
 
 .places__view-all:hover, .places__view-all:focus{
@@ -412,7 +412,7 @@ line-height: 40px;margin-bottom: 85px;
     color: #006DFE;
     text-decoration: none;
     padding-right: 59px;
-    background: url(../img/svg/Shape.svg) no-repeat 100% center;
+    background: url(..//Shape.svg) no-repeat 100% center;
 }
 
 .tour__more:hover, .tour__more:focus{
@@ -467,7 +467,7 @@ font-size: 16px;
 line-height: 24px;
 color: #fff;
 padding-right: 23px;
-background: url(../img/svg/heart-ico.svg) no-repeat right;
+background: url(../heart-ico.svg) no-repeat right;
 margin-right: 14px;
 }   
 
@@ -477,7 +477,7 @@ margin-right: 14px;
     line-height: 24px;
     color: #fff;
     padding-right: 23px;
-    background: url(../img/svg/comment-ico.svg) no-repeat right;
+    background: url(../comment-ico.svg) no-repeat right;
     }   
 
 .top__card-desc{
